@@ -4,4 +4,3 @@ all:
     linode_machine: 
       ansible_host: 162.216.18.69
       ansible_ssh_user: root
-      ansible_ssh_pass: 0gaitaou0snmof62
